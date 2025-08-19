@@ -1,7 +1,7 @@
 ## KOFREFO
 
 ### App Description
-`TODO://` Add app description
+Cette application affiche une salutation. l'utilisateur peut changet la couleur du texte , la couleur de fond et personnaliser le texte.
 
 ### App Walk-though
 <img src="walkthrough.gif" width=200><br>
